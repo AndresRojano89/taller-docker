@@ -1,7 +1,7 @@
 # Prueba cruzada
 
-**Equipo evaluador:** Luisa Rossete
-**Repositorio probado:** https://github.com/AndresRojano89/taller-docker
+-Equipo evaluador: Luisa Rossete
+-Repositorio probado: https://github.com/AndresRojano89/taller-docker
 
 ## Resultado
 El proyecto encendió correctamente siguiendo el README. Los tres servicios (frontend, api, bd) quedaron en estado Up y la aplicación permitió agregar, completar y eliminar tareas.
