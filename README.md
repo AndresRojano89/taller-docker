@@ -1,7 +1,7 @@
 # Gestor de tareas contenerizado 
 
 ## Integrantes 
-- [Andrés David Rojano Celin] 
+- Andrés David Rojano Celin 
 
 ## Servicios 
 | Servicio | Tecnología | Función |
